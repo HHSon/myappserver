@@ -39,7 +39,7 @@
 		<repository>
 			<id>internal.repo</id>
 			<name>Temporary CI Repository</name>
-			<url>file://${project.build.directory}/mvn-repo</url>
+			<url>file://home/pij/programming/release/mvn-repo</url>
 		</repository>
 	</distributionManagement>
 
